@@ -1,0 +1,3 @@
+Running Solver : D:\Win7 Ansys\v211\aisol\bin\winx64\Ansys.Solvers.Explicit.Launcher.exe -input ".\admodel_0.ad" -exd -double -machines localhost:2
+Checking remote machine response
+Problem accessing remote machine
